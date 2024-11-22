@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.Stack;
-
+//Ejercicio Juan Manuel Colorado Navas
 public class Punto4 {
 
      Stack<Object> pila;
